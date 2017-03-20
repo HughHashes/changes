@@ -1,0 +1,11 @@
+body{
+    font-family: 'Quattrocento', serif;
+}
+#jumbotron{
+    background-color: #726b6a;
+}
+
+.move{
+    margin-left: 50%;
+    margin-right: 50%;
+}
